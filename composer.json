@@ -23,8 +23,7 @@
     "autoload": {
         "psr-4": {
             "mithublue\\Hooks\\": "src/"
-        },
-        "files": ["helper.php"]
+        }
     },
     "autoload-dev": {
         "psr-4": {
