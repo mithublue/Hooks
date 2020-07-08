@@ -1,6 +1,6 @@
 {
     "name": "mithublue/hooks",
-    "description": ":package_description",
+    "description": "A WP styled action and filter hook system for laravel, all functions are same as wp",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
