@@ -1,7 +1,7 @@
 {
     "name": "mithublue/hooks",
     "description": ":package_description",
-    "license": "LICENSE",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Mithu A Quayium",
