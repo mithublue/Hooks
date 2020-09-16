@@ -13,7 +13,7 @@ class HooksServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        include __DIR__.'/helper.php';
+        //include __DIR__.'/helper.php';
     }
 
     /**
